@@ -1,0 +1,119 @@
+South Korea:
+R: 0 G: 0 B: 255 - Jeolla
+R: 0 G: 0 B: 254 - Southern Gyeongsang
+R: 0 G: 0 B: 253 - Busan
+R: 0 G: 0 B: 252 - Ulsan
+R: 0 G: 0 B: 251 - Daegu
+R: 0 G: 0 B: 250 - Chungcheong
+R: 0 G: 0 B: 249 - Northern Gyeongsang
+R: 0 G: 0 B: 248 - South Gangwon
+R: 0 G: 0 B: 247 - Gyeonggi
+
+North Korea:
+R: 0 G: 0 B: 246 - Kaesong
+R: 0 G: 0 B: 245 - North Kangwon
+R: 0 G: 0 B: 244 - South Hwangae
+R: 0 G: 0 B: 243 - North Hwangae
+R: 0 G: 0 B: 242 - Pyongyang
+R: 0 G: 0 B: 241 - South Pyongan
+R: 0 G: 0 B: 240 - North Pyongan
+R: 0 G: 0 B: 239 - Jagang
+R: 0 G: 0 B: 238 - Ryanggang
+R: 0 G: 0 B: 237 - North Hamgyung
+R: 0 G: 0 B: 236 - South Hamgyung
+
+Russia:
+R: 0 G: 255 B: 0 - Sakhalin
+R: 0 G: 254 B: 0 - Kuril Islands
+R: 0 G: 236 B: 0 - Vladivostok
+R: 0 G: 235 B: 0 - Khabarovsk
+R: 0 G: 234 B: 0 - Birobidzhan
+R: 0 G: 233 B: 0 - South Amur
+R: 0 G: 232 B: 0 - Nikolayevsk
+
+
+Japan:
+R: 0 G: 253 B: 0 - Hokkaido
+R: 0 G: 252 B: 0 - Southern Hokkaido
+R: 0 G: 251 B: 0 - Northern Tohoku
+R: 0 G: 250 B: 0 - Sendai
+R: 0 G: 249 B: 0 - Tohoku
+R: 0 G: 248 B: 0 - Kanto
+R: 0 G: 247 B: 0 - Hokuriku
+R: 0 G: 246 B: 0 - Tokyo
+R: 0 G: 245 B: 0 - Yokohama
+R: 0 G: 244 B: 0 - Tokai
+R: 0 G: 243 B: 0 - Koshinetsu
+R: 0 G: 242 B: 0 - Nagoya
+R: 0 G: 241 B: 0 - Kansai
+R: 0 G: 240 B: 0 - Chugoku
+R: 0 G: 239 B: 0 - Shikoku
+R: 0 G: 238 B: 0 - Kyushu
+R: 0 G: 237 B: 0 - Okinawa
+
+China:
+R: 255 G: 0 B: 0 - Dandong
+R: 254 G: 0 B: 0 - Tonghua-Baishan
+R: 253 G: 0 B: 0 - Haunren
+R: 252 G: 0 B: 0 - Yanbian
+R: 251 G: 0 B: 0 - Dailan
+R: 250 G: 0 B: 0 - Liaoning
+R: 249 G: 0 B: 0 - Mudan.jiang
+R: 248 G: 0 B: 0 - Song.jiang
+R: 247 G: 0 B: 0 - Jilin
+R: 246 G: 0 B: 0 - Heilong.jiang
+R: 245 G: 0 B: 0 - Jinzhou
+R: 244 G: 0 B: 0 - Penglai
+R: 243 G: 0 B: 0 - Jiaodong
+R: 242 G: 0 B: 0 - Qingdao
+R: 241 G: 0 B: 0 - Zibo
+R: 240 G: 0 B: 0 - Jinan
+R: 239 G: 0 B: 0 - Binzhou
+R: 238 G: 0 B: 0 - Shanhaiguan
+R: 237 G: 0 B: 0 - Tianjin
+R: 236 G: 0 B: 0 - Bohai
+R: 235 G: 0 B: 0 - Beijing
+R: 234 G: 0 B: 0 - Xiong'an
+R: 233 G: 0 B: 0 - Jining
+R: 232 G: 0 B: 0 - Xuhai
+R: 231 G: 0 B: 0 - Huaiyang
+R: 230 G: 0 B: 0 - Nantong
+R: 229 G: 0 B: 0 - Shanghai
+R: 228 G: 0 B: 0 - Suchang
+R: 227 G: 0 B: 0 - Qiantang
+R: 226 G: 0 B: 0 - Jinling
+R: 225 G: 0 B: 0 - Kuaiji
+R: 224 G: 0 B: 0 - Ouhai
+R: 223 G: 0 B: 0 - Heihe
+R: 222 G: 0 B: 0 - Hulunbuir
+R: 221 G: 0 B: 0 - Xilingol
+R: 220 G: 0 B: 0 - Tongliao
+R: 219 G: 0 B: 0 - Chengde
+R: 218 G: 0 B: 0 - Koubei
+R: 217 G: 0 B: 0 - Baoding
+R: 216 G: 0 B: 0 - Yanmen
+R: 215 G: 0 B: 0 - Daming
+R: 214 G: 0 B: 0 - Liaocheng
+R: 213 G: 0 B: 0 - Zhonglu
+R: 212 G: 0 B: 0 - North Henan
+R: 211 G: 0 B: 0 - Hedong
+R: 210 G: 0 B: 0 - Heluo
+R: 209 G: 0 B: 0 - Zhengzhou
+R: 208 G: 0 B: 0 - Huaisi
+R: 207 G: 0 B: 0 - Xinyang
+R: 206 G: 0 B: 0 - Wuhu
+R: 205 G: 0 B: 0 - Anqing
+R: 204 G: 0 B: 0 - Jinhua
+R: 203 G: 0 B: 0 - Jian'an
+R: 202 G: 0 B: 0 - Yuzhang
+R: 201 G: 0 B: 0 - Xunyang
+R: 200 G: 0 B: 0 - Chenyuan
+R: 199 G: 0 B: 0 - Xiang.jiang
+R: 198 G: 0 B: 0 - Luling
+R: 197 G: 0 B: 0 - Jiujiang
+R: 196 G: 0 B: 0 - Jingyi
+R: 195 G: 0 B: 0 - Jianghan
+
+Mongolia:
+R: 255 G: 106 B: 0 - Eastern Mongolia
+
